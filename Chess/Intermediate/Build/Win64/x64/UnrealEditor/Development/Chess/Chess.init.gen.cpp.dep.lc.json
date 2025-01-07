@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\unrealeditor\\inc\\chess\\uht\\chess.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\x64\\chesseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chess\\definitions.chess.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

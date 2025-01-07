@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\valho\\MyProject\\Chess\\Source\\Chess\\Chess.Build.cs",
+		"C:\\Users\\valho\\MyProject\\Chess\\Source\\Chess.Target.cs",
+		"C:\\Users\\valho\\MyProject\\Chess\\Source\\ChessEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

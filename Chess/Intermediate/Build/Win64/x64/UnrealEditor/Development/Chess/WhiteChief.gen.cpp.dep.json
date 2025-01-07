@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\unrealeditor\\inc\\chess\\uht\\whitechief.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\x64\\chesseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chess\\definitions.chess.h",
+            "c:\\users\\valho\\myproject\\chess\\source\\chess\\whitechief.h",
+            "c:\\users\\valho\\myproject\\chess\\source\\chess\\whitechessfigure.h",
+            "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\unrealeditor\\inc\\chess\\uht\\whitechessfigure.generated.h",
+            "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\unrealeditor\\inc\\chess\\uht\\whitechief.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

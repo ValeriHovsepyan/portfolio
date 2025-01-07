@@ -1,0 +1,47 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Chess.cpp.obj": [
+			"BlackChessFigure.gen.cpp.obj",
+			"BlackElephant.gen.cpp.obj",
+			"BlackKing.gen.cpp.obj",
+			"BlackKnight.gen.cpp.obj",
+			"BlackQuin.gen.cpp.obj",
+			"BlackSoldier.gen.cpp.obj",
+			"BlackSoldierChangeFigure.gen.cpp.obj",
+			"BP_whiteSoldier.gen.cpp.obj",
+			"ChangeFidureWidget.gen.cpp.obj",
+			"Chess.init.gen.cpp.obj",
+			"ChessCharacter.gen.cpp.obj",
+			"ChessGameMode.gen.cpp.obj",
+			"OnePeaceOfBoard.gen.cpp.obj",
+			"WhiteChessFigure.gen.cpp.obj",
+			"WhiteChief.gen.cpp.obj",
+			"WhiteElephant.gen.cpp.obj",
+			"WhiteKing.gen.cpp.obj",
+			"WhiteKnight.gen.cpp.obj",
+			"WhiteQuin.gen.cpp.obj",
+			"whiteSoldier.gen.cpp.obj",
+			"BlackChessFigure.cpp.obj",
+			"BlackElephant.cpp.obj",
+			"BlackKing.cpp.obj",
+			"BlackKnight.cpp.obj",
+			"BlackQuin.cpp.obj",
+			"BlackSoldier.cpp.obj",
+			"BlackSoldierChangeFigure.cpp.obj",
+			"BP_whiteSoldier.cpp.obj",
+			"ChangeFidureWidget.cpp.obj",
+			"Chess.cpp.obj",
+			"ChessCharacter.cpp.obj",
+			"ChessGameMode.cpp.obj",
+			"OnePeaceOfBoard.cpp.obj",
+			"WhiteChessFigure.cpp.obj",
+			"WhiteChief.cpp.obj",
+			"WhiteElephant.cpp.obj",
+			"WhiteKing.cpp.obj",
+			"WhiteKnight.cpp.obj",
+			"WhiteQuin.cpp.obj",
+			"whiteSoldier.cpp.obj"
+		]
+	}
+}

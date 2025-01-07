@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\unrealeditor\\inc\\chess\\uht\\chessgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\x64\\chesseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chess\\definitions.chess.h",
+            "c:\\users\\valho\\myproject\\chess\\source\\chess\\chessgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\valho\\myproject\\chess\\intermediate\\build\\win64\\unrealeditor\\inc\\chess\\uht\\chessgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

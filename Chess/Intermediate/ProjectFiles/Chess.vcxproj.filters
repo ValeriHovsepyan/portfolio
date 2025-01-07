@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chess.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chess.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChessEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Chess">
+      <UniqueIdentifier>{F2A442F8-9E82-3A66-92F4-E4724A516C31}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Chess\BlackChessFigure.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackChessFigure.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackChief.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackChief.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackElephant.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackElephant.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackKing.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackKing.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackKnight.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackKnight.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackQuin.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackQuin.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackSoldier.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackSoldier.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BlackSoldierChangeFigure.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BlackSoldierChangeFigure.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\BP_whiteSoldier.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\BP_whiteSoldier.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\ChangeFidureWidget.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\ChangeFidureWidget.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Chess\Chess.Build.cs">
+      <Filter>Source\Chess</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chess\Chess.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\Chess.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\ChessCharacter.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\ChessCharacter.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\ChessGameMode.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\ChessGameMode.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\OnePeaceOfBoard.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\OnePeaceOfBoard.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\WhiteChessFigure.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\WhiteChessFigure.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\WhiteChief.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\WhiteChief.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\WhiteElephant.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\WhiteElephant.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\WhiteKing.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\WhiteKing.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\WhiteKnight.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\WhiteKnight.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\WhiteQuin.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\WhiteQuin.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\whiteSoldier.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\whiteSoldier.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
