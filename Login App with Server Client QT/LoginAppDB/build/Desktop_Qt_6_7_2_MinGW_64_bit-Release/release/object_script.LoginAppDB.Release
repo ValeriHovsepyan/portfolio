@@ -1,0 +1,13 @@
+release/changepasswordwindow.o
+release/client.o
+release/main.o
+release/mainwindow.o
+release/resetpassword.o
+release/signinmenu.o
+release/userpage.o
+release/moc_changepasswordwindow.o
+release/moc_client.o
+release/moc_mainwindow.o
+release/moc_resetpassword.o
+release/moc_signinmenu.o
+release/moc_userpage.o

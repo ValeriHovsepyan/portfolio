@@ -1,0 +1,13 @@
+debug/changepasswordwindow.o
+debug/client.o
+debug/main.o
+debug/mainwindow.o
+debug/resetpassword.o
+debug/signinmenu.o
+debug/userpage.o
+debug/moc_changepasswordwindow.o
+debug/moc_client.o
+debug/moc_mainwindow.o
+debug/moc_resetpassword.o
+debug/moc_signinmenu.o
+debug/moc_userpage.o
